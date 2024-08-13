@@ -1,7 +1,5 @@
 # MultiplicationTable
 
-# PositiveOrNegative
-
 <h2> 👨‍💻 About Project</h2>
 Among the first projects of Amin Mirzaei after learning the basic concepts of Visual Basic <br />
 It can display the multiplication table of ten by ten, hundred by hundred or thousand by thousand on the console screen according to the user's choice <br />
