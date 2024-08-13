@@ -23,4 +23,5 @@ It can display the multiplication table of ten by ten, hundred by hundred or tho
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="674" alt="Capture4" src="https://github.com/user-attachments/assets/555a8e72-8f8e-41f2-833b-f76ac4d0d556">
+<img width="675" alt="Capture5" src="https://github.com/user-attachments/assets/d28fcfb6-2a7e-46ec-a873-7125304f25fa">
